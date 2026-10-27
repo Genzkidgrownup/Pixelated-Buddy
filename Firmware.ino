@@ -69,7 +69,7 @@ void initData() {
 }
 
 void loop() {
-  if(digitalRead(SW1) == 0 && digitalRead(SW2) == 0 && digitalRead(SW3) == 0){
+  if(digitalRead(Touch_front) == 0 && digitalRead(Touch_right) == 0 && digitalRead(Touch_left) == 0){
   tft.fillRect((tft.width() / 2) - eyeSize / 2, tft.height() - eyeSize, eyeSize, eyeSize / 4, GRAY);
 
   randomIrisPosGenerate();
@@ -83,7 +83,7 @@ void loop() {
   randomIrisPosGenerate();
   suspiciousEyes();
   }
-  else if(digitalRead(SW1) == 1 && digitalRead(SW2) == 0 && digitalRead(SW3) == 0)
+  else if(digitalRead(Touch_front) == 1 && digitalRead(Touch_right) == 0 && digitalRead(Touch_left) == 0)
   {
      randomIrisPosGenerate();
   baseEyes();
@@ -95,7 +95,7 @@ void loop() {
   randomIrisPosGenerate();
   angryEyes();
   }
-  else if(digitalRead(SW1) == 0 && digitalRead(SW2) == 1 && digitalRead(SW3) == 0)
+  else if(digitalRead(Touch_front) == 0 && digitalRead(Touch_right) == 1 && digitalRead(Touch_left) == 0)
   {
   
   tft.fillCircle(tft.width() / 4, shapesYPos, eyeSize, GRAY);
@@ -107,7 +107,7 @@ void loop() {
     {
 
       
-      if(digitalRead(SW3) == 1)
+      if(digitalRead(Touch_left) == 1)
       {
         
   tft.fillRect(tft.width() / 4 - eyeSize, shapesYPos - eyeSize, topSection, 15, BLACK);
