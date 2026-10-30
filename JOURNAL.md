@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 4 | Tier 1 | 13.06h | 8 |
+| Week 4 | Tier 1 | 14.29h | 8 |
 
 ## Contents
 
@@ -77,7 +77,7 @@ Mostly i do timelapses but this glitch comes so i did the 30mins journal.
 
 ### 2026-10-30: HI so again the system crashed some how but this time i think i lost like 30 minutes
 
-**0.5h**
+**1.73h**
 
 HI so again the system crashed some how but this time i think i lost like 30 minutes
 here is the screenshot :
@@ -96,3 +96,5 @@ In next i will update my PCB so it can support the oled and another ESP32 and a 
 
 ![image](https://halflife.hackclub-assets.com/sessions/fEl27nUId85bdpY1FRjmh6N1ebYpyxYm/8a03f76469083b7ef1aea7b7be50cc8a219821bc2caac8bbec6c6416b05dacd7.png)
 ![Screenshot 2026-10-30 213014](https://halflife.hackclub-assets.com/sessions/fEl27nUId85bdpY1FRjmh6N1ebYpyxYm/9ec25ae78d0b21e39b53a84a06f93d682fa05f3f70fd7c4fd6942c7c8239a5dd.png)
+
+[Timelapse](https://lookout.hackclub.com/api/media/6c9975b2-fb13-4d3a-94b7-b619cc9181b4/video.mp4)
