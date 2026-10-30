@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 4 | Tier 1 | 12.76h | 8 |
+| Week 4 | Tier 1 | 13.06h | 8 |
 
 ## Contents
 
@@ -21,7 +21,7 @@
 5. [2026-10-30: So i was recording lapse and again it glitched out sometime i dont know how , mostly i have a bad internet conection that's why i worked for 1hr 30mins almost and it's showing 54 minutes recorded so i](#2026-10-30-so-i-was-recording-lapse-and-again-it-glitched-ou)
 6. [2026-10-30: Work session](#2026-10-30-work-session)
 7. [2026-10-30: Work session](#2026-10-30-work-session)
-8. [2026-10-30: HI so again the system crashed some how but this time i think i lost like 20 minutes](#2026-10-30-hi-so-again-the-system-crashed-some-how-but-this-)
+8. [2026-10-30: HI so again the system crashed some how but this time i think i lost like 30 minutes](#2026-10-30-hi-so-again-the-system-crashed-some-how-but-this-)
 
 ## Design
 
@@ -75,11 +75,11 @@ Mostly i do timelapses but this glitch comes so i did the 30mins journal.
 
 [Timelapse](https://lookout.hackclub.com/api/media/ddea3a34-1387-41fa-9055-28e4fe0f6923/video.mp4)
 
-### 2026-10-30: HI so again the system crashed some how but this time i think i lost like 20 minutes
+### 2026-10-30: HI so again the system crashed some how but this time i think i lost like 30 minutes
 
-**0.2h**
+**0.5h**
 
-HI so again the system crashed some how but this time i think i lost like 20 minutes
+HI so again the system crashed some how but this time i think i lost like 30 minutes
 here is the screenshot :
 
 ![Screenshot 2026-10-30 222310](https://halflife.hackclub-assets.com/sessions/fEl27nUId85bdpY1FRjmh6N1ebYpyxYm/6e6cc7ee1da75cbddbdfb3eb4734a7760d31ab56317276f3d8b26689574f77e6.png)
