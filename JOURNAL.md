@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 4 | Tier 1 | 15.86h | 10 |
+| Week 4 | Tier 1 | 16.48h | 10 |
 
 ## Contents
 
@@ -109,7 +109,7 @@ In next i will update my PCB so it can support the oled and another ESP32 and a 
 
 ### 2026-10-31: Hi in this session i made those changes in my schematic like i added the DS3231 sensor and learnt about it that it dosn't require 5V and  can work with 3.3V logic output of esp32 . I got to know that
 
-**1.5h**
+**2.12h**
 
 Hi in this session i made those changes in my schematic like i added the DS3231 sensor and learnt about it that it dosn't require 5V and  can work with 3.3V logic output of esp32 . I got to know that we can just use those 4 pins of that sensor and work with it. I opened up my simulator and then placed all the components and ports as it was in simulation as i did , then i removed the ground planes in the previous PCB , reshaped the board outline and placed all the components inside it and started routing the board , it almost took me more than 2hrs but somehow again my lapse glitched due to network issue and it shows 36 minutes.
 So i thought i will journal my entry , SIlkscreen part is still left and labelling the ports in PCB except that everything is ready in Pixelated buddy In next session will do silk screen and start making a enclosure for my buddy.
@@ -121,3 +121,5 @@ So i thought i will journal my entry , SIlkscreen part is still left and labelli
 ![image](https://halflife.hackclub-assets.com/sessions/fEl27nUId85bdpY1FRjmh6N1ebYpyxYm/3176754e9e5f3350f5e0781f51d7dc525980500893f8a4ca777fb32840e8c5e0.png)
 
 ![image](https://halflife.hackclub-assets.com/sessions/fEl27nUId85bdpY1FRjmh6N1ebYpyxYm/fd95ad515b50bf3fc4908a05eff7657514039e5d8566f082eb3a7c0f819df606.png)
+
+[Timelapse](https://lookout.hackclub.com/api/media/40eba38c-c394-4036-9e82-c6e3ddeb2f36/video.mp4)
