@@ -2,4 +2,5 @@ Item,Qty,Supplier,Cost/item,Total Cost,link
 PCB,1,lioncircuits,$15.42,$15.42,https://www.lioncircuits.com/quote
 OLED,1,robu.in,$2.31,$2.31,https://robu.inhttps://robu.in/product/0-96-inch-i2c-iic-oled-lcd-module-4pin-with-vcc-g
 SmartElex I2S Audio Breakout,1,robu,$2.04,$2.04,https://robu.in/product/smartelex-i2s-audio-breakout-max98357a/?gad_source=1&gad_campaignid=18585959909&gbraid=0AAAAADvLFWc45-oZO6cgk0EQswTIPcYto&gclid=CjwKCAjw_9bWBhBGEiwAomyTIlhAQQEx5eKc3236O3AF8oBiK3bvH5T5GiiI0qBz3UgBim7wRTp9exoC9CYQAvD_BwE
+Esp32-wroom-32,2,robu,$4.63,$9.26,https://robu.in/product/esp-wroom-32-esp32-wifi-bt-ble-mcu-module/
 Estimated total shipping,1,,,$0.00,
