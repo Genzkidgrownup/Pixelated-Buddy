@@ -6,8 +6,12 @@ A desk buddy with two displays(Oled + TFT) which will have functions just as a t
 >Well then here it is ..
 
 ## PROJECT SHOWCASE:
-<img width="35%" height="1078" alt="image" src="https://github.com/user-attachments/assets/355932d6-0487-4175-9566-7a656bcae3f3" /> <img width="35%" height="898" alt="image" src="https://github.com/user-attachments/assets/858eedf7-fcb2-45a8-a4f7-3bcfd4733516" />  
-<img width="35%" height="1078" alt="image" src="https://github.com/user-attachments/assets/6c5a927f-1a59-4ca0-8e3a-29394196f5f6" /><img width="35%" height="1078" alt="image" src="https://github.com/user-attachments/assets/5900b743-b302-4730-9314-1282cea5633c" />  
+<img width="35%" height="902" alt="image" src="https://github.com/user-attachments/assets/bd6ae450-880b-4600-9ec8-a0fbd0bc5a68" /> <img width="35%" height="892" alt="image" src="https://github.com/user-attachments/assets/ce33bc12-356e-44de-b04d-c18bc993403d" /> 
+<img width="35%" height="897" alt="image" src="https://github.com/user-attachments/assets/945c40dc-e23e-41f2-86a8-b669023ab704" /> <img width="35%" height="905" alt="image" src="https://github.com/user-attachments/assets/c0cb4e94-ba77-403d-b027-0da9c5249d00" />
+
+
+
+
 
 ## Physical Specifications:
 
@@ -45,6 +49,8 @@ A desk buddy with two displays(Oled + TFT) which will have functions just as a t
 > TO scroll in hour mode or minute mode Click 1 to go up by +1 and 3 to go down by -1 and 2 to confirm time .  
 > when you exit It normally goes to alarm start mode and alarm starts if you have selected an time for alarm.  
 >That's how it works Thanks for Reading.
+>You can check it out in https://wokwi.com/projects/479295715727755265
+
 
 ## PCB Overview:  
   
