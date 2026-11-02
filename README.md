@@ -62,7 +62,8 @@ A desk buddy with two displays(Oled + TFT) which will have functions just as a t
 >Place the main lid , glue the TFT and Oled and touch sensors from Inside and place the buttons in the hole it will fit without any glue
 >After that Place the PCB secure it with M3 screws and place the top lid over main lid and secure it with M3 screws
 >Place the Oled lid and secure it with M3 screws
->and then screw the speaker on the buttom of Main lid and place it
+>and then screw the speaker on the buttom of Main lid and place it.
+>Glue the speaker in the backside of main lid.  
 >After following this You should be good to go .
 
 ## License
